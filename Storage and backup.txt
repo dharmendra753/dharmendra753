@@ -1,0 +1,10 @@
+what type of storage/backup
+how many devices/ci
+Architectecture
+type devices
+version/support
+any monitoring/any tool/custom/email/ticketing/call
+on prem/saas
+storage/backup policy/licensing
+vendor
+Access to shared folders/Sharepoint
